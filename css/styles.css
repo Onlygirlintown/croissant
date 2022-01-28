@@ -1,0 +1,33 @@
+body {
+  background: #f8e8a6 !important;
+}
+h1 {
+  display: flex;
+  justify-content: center;
+  font-weight: bold;
+}
+.navigation-links {
+}
+.links {
+  margin: 10px;
+  font-size: 14px;
+  color: #20852b;
+  font-weight: 500;
+}
+a:visited {
+  color: #20852b;
+  font-size: 14px;
+  font-weight: 500;
+}
+.croissant-photo {
+  display: block;
+  margin: auto;
+  max-width: 300%;
+}
+.container {
+  display: flex;
+  justify-content: center;
+}
+p {
+  text-align: center;
+}
